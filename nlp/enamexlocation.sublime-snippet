@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<ENAMEX TYPE="LOCATION">$SELECTION</ENAMEX>
+]]></content>
+	<!-- <tabTrigger>enamexperson</tabTrigger> -->
+</snippet>

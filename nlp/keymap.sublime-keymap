@@ -1,0 +1,6 @@
+[
+	{ "keys": ["alt+1"], "command": "insert_snippet", "args": { "name": "Packages/User/enamexperson.sublime-snippet" } },
+	{ "keys": ["alt+2"], "command": "insert_snippet", "args": { "name": "Packages/User/enamexlocation.sublime-snippet" } },
+	{ "keys": ["alt+3"], "command": "insert_snippet", "args": { "name": "Packages/User/enamexorganization.sublime-snippet" } }
+
+]
