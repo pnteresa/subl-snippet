@@ -7,8 +7,8 @@ lanjutan dulu yg java, skrg nlp dulu
 3. Copy isi `keymap.sublime-keymap` ke sana. 
 
 ### Pakai
-- Ctrl+1 untuk `ENAMEX PERSON`
-- Ctrl+2 untuk `ENAMEX LOCATION`
-- Ctrl+3 untuk `ENAMEX ORGANIZATION`
+- Alt+1 untuk `ENAMEX PERSON`
+- Alt+2 untuk `ENAMEX LOCATION`
+- Alt+3 untuk `ENAMEX ORGANIZATION`
 
 semangats
